@@ -1,0 +1,12 @@
+C:\Users\gilet\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.dll
+C:\Users\gilet\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\gilet\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\gilet\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\gilet\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.dll
+C:\Users\gilet\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\gilet\source\repos\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.dll
+C:\Users\gilet\source\repos\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\gilet\source\repos\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\gilet\source\repos\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\gilet\source\repos\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.dll
+C:\Users\gilet\source\repos\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
